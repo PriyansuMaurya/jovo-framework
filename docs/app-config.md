@@ -46,6 +46,7 @@ app.configure({
   // Configuration
 });
 ```
+hello
 
 Both the constructor and `configure()` support the full range of [configuration elements](#configuration-elements).
 
